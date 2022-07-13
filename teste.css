@@ -1,0 +1,37 @@
+
+
+h1{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(167, 167, 245);
+}
+
+#container {
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px 40px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+
+.card {
+    display: inline-block;
+    width: 25%;
+}
+
+.conteudo{
+   font-size: 2rem;
+   margin-left: 20px;
+}
+
+#artigo-admin {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+
